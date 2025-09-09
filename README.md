@@ -58,4 +58,3 @@ Home Rental System is a web-based platform designed to simplify the process of r
 
 ### Conversation
 ![Conversation](assets/screenshots/conversation.png)
-
