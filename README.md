@@ -19,9 +19,8 @@ Home Rental System is a web-based platform designed to simplify the process of r
 
 ### **List of Features**
 
-Briefly list what your project can do:
-```markdown
-## Features
+
+### Features
 - User Registration & Login
 - House Owner Dashboard
 - Search Homes by Location, Price, Rating, Rooms
