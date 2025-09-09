@@ -38,23 +38,24 @@ Home Rental System is a web-based platform designed to simplify the process of r
 
 ## Screenshots
 
+
 ### Home Page
-![Home Page](assets/screenshots/homepage.jpg)
+![Home Page](homepage.JPG)
 
 ### Registration
-![Registration](assets/screenshots/registration.jpg)
+![Registration](registration.JPG)
 
 ### Login
-![Login](assets/screenshots/login.jpg)
+![Login](login.JPG)
 
-### Search Result
-![Search](assets/screenshots/search.jpg)
+### Search Filter
+![Search](search.JPG)
 
 ### Booking
-![Booking](assets/screenshots/booking.jpg)
+![Booking](booking.JPG)
 
 ### Payment
-![Payment](assets/screenshots/payment.jpg)
+![Payment](payment.JPG)
 
 ### Conversation
-![Conversation](assets/screenshots/conversation.jpg)
+![Conversation](conversation.JPG)
